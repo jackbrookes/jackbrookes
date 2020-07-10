@@ -7,5 +7,5 @@
 - 🌱 I’m currently learning:
   * Advanced software development techniques & patterns.
   * Computational bayesian statsical inference (i.e. using STAN).
-- 🕺 I developed and am maintaing [UXF](https://github.com/immersivecognition/unity-experiment-framework) for developing experiments in Unity. 
+- 🕺 I am maintaing [UXF](https://github.com/immersivecognition/unity-experiment-framework), a package for developing experiments in Unity. 
 - 📫 Send me an email!
