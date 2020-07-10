@@ -1,16 +1,11 @@
-### Hi there 👋
+### Hello! 👋
 
-<!--
-**jackbrookes/jackbrookes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on research into human threat response, using:
+  * Unity VR development.
+  * Computational modelling & statistical methods.
+  * Eye tracking, motion capture, & psychophysical measurement.
+- 🌱 I’m currently learning:
+  * Advanced software development techniques & patterns.
+  * Computational bayesian statsical inference (i.e. using STAN).
+- 🕺 I developed and am maintaing [UXF](https://github.com/immersivecognition/unity-experiment-framework) for developing experiments in Unity. 
+- 📫 Send me an email!
