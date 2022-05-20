@@ -1,11 +1,9 @@
 ### Hello! 👋
 
-- 🔭 I’m currently working on research into human threat response, using:
-  * Unity VR development.
-  * Computational modelling & statistical methods.
-  * Eye tracking, motion capture, & psychophysical measurement.
+- 🔭 I’m currently a Software Engineer developing non-gaming XR applications. I particularly enjoy:
+  * Applying mathematics and physics to solve software problems. 
+  * Building easy to use modular system. 
 - 🌱 I’m currently learning:
   * Advanced software development techniques & patterns.
-  * Computational bayesian statsical inference (i.e. using STAN).
 - 🕺 I am maintaing [UXF](https://github.com/immersivecognition/unity-experiment-framework), a package for developing experiments in Unity. 
 - 📫 Send me an email!
